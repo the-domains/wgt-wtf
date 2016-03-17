@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[WGT WTF?]]></title>
         <description><![CDATA[WGT WTF?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wgt-wtf/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 19:05:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 19:07:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wgt-wtf/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35f844d5-61e9-44aa-8852-4b75ebec7c03.jpg">]]></description>
+            <link>https://thegrid.ai/wgt-wtf/kiawah-16-into-the-wind-not-going-to-make-it-in-two/index.html</link>
+            <guid isPermaLink="false">2a516ef1-162e-4f9e-afd5-06882bfe3214</guid>
+            <pubDate>Thu, 17 Mar 2016 19:07:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa39c233-7ff4-4835-9cbf-9c993d86cab6.jpg">]]></description>
-            <link>undefined14-feet-down-1-inch-13-foot-putt-12-greens-subtract-25/index.html</link>
+            <link>https://thegrid.ai/wgt-wtf/14-feet-down-1-inch-13-foot-putt-12-greens-subtract-25/index.html</link>
             <guid isPermaLink="false">ffb7461c-9d3a-4c67-95cd-53081bcb253c</guid>
             <pubDate>Thu, 17 Mar 2016 19:05:06 GMT</pubDate>
         </item>
